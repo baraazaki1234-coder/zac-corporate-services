@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #F7F5F0;
+  color: #14181F;
+}
+
+.container-x {
+  @apply mx-auto max-w-7xl px-6 lg:px-10;
+}
+
+.eyebrow {
+  @apply text-gold text-sm tracking-[0.2em] uppercase font-semibold;
+}

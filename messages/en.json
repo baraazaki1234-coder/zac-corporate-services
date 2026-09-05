@@ -1,0 +1,141 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "cta": "Book a Consultation"
+  },
+  "hero": {
+    "eyebrow": "Integrated Medical & Legal Services",
+    "title": "Your Trusted Partner in Building the Medical Entity",
+    "subtitle": "Twenty-five years of experience establishing, licensing, and operating medical facilities, alongside legal, medical, and veterinary consulting for clients across Egypt and the Arab world.",
+    "cta": "Message us on WhatsApp",
+    "ctaSecondary": "View our services"
+  },
+  "stats": {
+    "note": "Approximate figures — pending final confirmation from management",
+    "experience": "Years of experience",
+    "sectors": "Medical sectors served",
+    "region": "Arab countries covered",
+    "commitment": "Commitment through to licensing"
+  },
+  "services": {
+    "eyebrow": "Our Services",
+    "title": "Everything your medical entity needs, under one roof",
+    "subtitle": "From the land to the license, from consultation to supply — we walk with you at every step.",
+    "items": {
+      "facilities": {
+        "title": "Facility Establishment & Licensing",
+        "desc": "Providing land and full guidance to establish pharmacies, clinics, hospitals, and pharmaceutical factories through to licensing."
+      },
+      "supply": {
+        "title": "Medical Supply",
+        "desc": "Supplying equipment, medication, and medical consumables through a trusted, vetted supplier network."
+      },
+      "consulting": {
+        "title": "Medical & Veterinary Consulting",
+        "desc": "Specialized consulting spanning all medical specialties, in addition to veterinary consulting."
+      },
+      "legal": {
+        "title": "Legal Consulting & Licensing",
+        "desc": "Contract drafting, license procurement, and legal representation in matters related to the medical sector."
+      },
+      "relocation": {
+        "title": "Medical Staff Relocation",
+        "desc": "Facilitating the transfer of medical staff between facilities and entities operating in the sector."
+      }
+    },
+    "detailed": {
+      "facilities": {
+        "points": ["Sourcing suitable land for the facility", "Managing the full licensing process", "Pharmacy, clinic, hospital, or pharmaceutical factory", "Full guidance from idea to operational launch"]
+      },
+      "supply": {
+        "points": ["Specialized medical equipment", "Medication and medical consumables", "Vetted supplier network", "Supply for all facility types"]
+      },
+      "consulting": {
+        "points": ["Consulting across all medical specialties", "Specialized veterinary consulting", "Technical support for facility owners", "Periodic follow-up as needed"]
+      },
+      "legal": {
+        "points": ["Contract drafting and review", "Securing required licenses", "Legal representation in medical-sector cases", "Consulting on staff rights in the sector"]
+      },
+      "relocation": {
+        "points": ["Staff transfer between facilities", "Coordination with relevant authorities", "Employee support throughout the process", "Available for all medical specialties"]
+      }
+    },
+    "pageTitle": "Our Services in Detail",
+    "pageSubtitle": "A closer look at every service we offer, from establishment to full operation."
+  },
+  "about": {
+    "eyebrow": "About Us",
+    "title": "Established expertise, renewed trust",
+    "body": "For twenty-five years, ZAC has accompanied dozens of clients from the first idea to the full operation of their medical facility — with integrated legal and medical expertise under one roof.",
+    "cta": "Learn more about the company"
+  },
+  "cta": {
+    "title": "Ready to take the first step with you",
+    "subtitle": "Reach out now, and a specialized team member will respond shortly.",
+    "whatsapp": "Direct WhatsApp",
+    "form": "Send a Message"
+  },
+  "aboutPage": {
+    "eyebrow": "About ZAC",
+    "title": "Twenty-five years serving the medical sector",
+    "intro": "ZAC Corporate Services was founded to bridge the gap between an investor's or physician's idea and a fully licensed, operational medical facility. We bring legal and medical expertise together under one roof, so our clients never have to navigate multiple parties on their own.",
+    "missionTitle": "Our Mission",
+    "mission": "To be the first partner for anyone entering the medical sector in Egypt and the Arab world, from idea to license, with full trust and transparency.",
+    "visionTitle": "Our Vision",
+    "vision": "To become the leading reference for establishing, licensing, and operating medical facilities across the Arab region.",
+    "valuesTitle": "What Sets Us Apart",
+    "values": {
+      "experience": { "title": "Deep Experience", "desc": "Twenty-five years of direct dealings with regulatory bodies and medical licensing." },
+      "integrated": { "title": "Integrated Service", "desc": "Legal, medical, veterinary, and logistical support under one roof — no juggling multiple providers." },
+      "regional": { "title": "Regional Reach", "desc": "Serving clients across Egypt and multiple Arab countries with the same level of commitment." },
+      "commitment": { "title": "Follow-Through", "desc": "We stay on the file until the license is actually issued and the client is operational." }
+    },
+    "cta": "Talk to our team"
+  },
+  "faqPage": {
+    "eyebrow": "FAQ",
+    "title": "Answers to the most common questions",
+    "subtitle": "Can't find your question here? Reach out directly and we'll answer you.",
+    "items": [
+      { "q": "What documents are required to open a pharmacy or clinic?", "a": "Requirements vary by facility type and governorate. We provide a complete, up-to-date checklist when you start working with us, and follow up on each document with you step by step." },
+      { "q": "How long does the licensing process take?", "a": "Timelines vary depending on facility type and the relevant regulatory body. We give you a realistic estimate after reviewing your specific case." },
+      { "q": "Can you provide the land for the facility?", "a": "Yes, we help source suitable land based on your location and facility type; you then handle the construction itself." },
+      { "q": "Do you serve clients outside Egypt?", "a": "Yes, we work with clients across multiple Arab countries and can manage the process even if you're not based in Egypt full-time." },
+      { "q": "Which medical specialties do you consult on?", "a": "We cover all major medical specialties, in addition to veterinary consulting." },
+      { "q": "Is the legal service standalone, or does it require other services?", "a": "Legal consulting and licensing is available independently — it doesn't need to be bundled with another service." },
+      { "q": "How do I start the conversation with you?", "a": "Via WhatsApp or the contact form on the site, and our team will respond as soon as possible." },
+      { "q": "Do you help relocate staff between facilities?", "a": "Yes, we facilitate the transfer process by coordinating with both facilities and the relevant authorities." }
+    ]
+  },
+  "contactPage": {
+    "eyebrow": "Contact Us",
+    "title": "Your first step with us starts here",
+    "subtitle": "Choose what works for you — WhatsApp, phone, or send us a message directly.",
+    "form": {
+      "name": "Name",
+      "phone": "Phone Number",
+      "message": "Your Message",
+      "submit": "Send",
+      "sending": "Sending...",
+      "success": "Your message has been sent. We'll be in touch soon.",
+      "error": "Something went wrong. Please try again or reach us on WhatsApp.",
+      "errorName": "Name must be between 2 and 80 characters.",
+      "errorPhone": "Please enter a valid phone number.",
+      "errorMessage": "Message is too long (1000 characters max).",
+      "errorRateLimit": "Too many attempts in a short time. Please try again in a minute."
+    },
+    "whatsappLabel": "WhatsApp",
+    "phoneLabel": "Phone"
+  },
+  "footer": {
+    "tagline": "Integrated medical & legal services since 1999",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "rights": "© 2026 ZAC Corporate Services. All rights reserved.",
+    "credit": "Designed & developed by"
+  }
+}
